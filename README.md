@@ -3,7 +3,7 @@
   <a href="https://instagram.com/httpsluanas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luana-silva-b7a2321a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  ##
+
   <a href="https://github.com/httpsluanas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpsluanas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsluanas&layout=compact&langs_count=7&theme=dark"/>
