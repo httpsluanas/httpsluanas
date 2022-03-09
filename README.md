@@ -1,5 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=httpsluanas&repo=httpsluanas)](https://github.com/httpsluanas/httpsluanas)
-
 ## Oi, sou a Luana!</h1>
 🧳 Atualmente trabalhando como Desenvolvedora Web e UX Designer, aprendendo Javascript na prática e cursando Tecnologia da Informação e Comunicação
 
