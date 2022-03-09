@@ -1,4 +1,8 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=httpsluanas&repo=httpsluanas)](https://github.com/httpsluanas/httpsluanas)
+
 ## Oi, sou a Luana!</h1>
+🧳 Atualmente trabalhando como Desenvolvedora Web e UX Designer, aprendendo Javascript na prática e cursando Tecnologia da Informação e Comunicação
+
 <div>
   <a href="https://instagram.com/httpsluanas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luana-silva-b7a2321a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
